@@ -1,8 +1,8 @@
 CC=gcc
 CCFLAGS=-Wall
 
-example-1: example-1.c
+example-2: example-2.c
 	$(CC) $(CCFLAGS) $^ -o $@
 
 clean:
-	rm -f example-1
+	rm -f example-2
