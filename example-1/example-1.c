@@ -35,13 +35,14 @@ int print_capabilities(int fd) {
          "  Driver: \"%s\"\n"
          "  Card: \"%s\"\n"
          "  Bus: \"%s\"\n"
-         "  Version: %d.%d\n"
+         "  Version: %u.%u.%u\n"
          "  Capabilities: %08x\n",
          caps.driver,
          caps.card,
          caps.bus_info,
-         (caps.version>>16)&&0xFF,
-         (caps.version>>24)&&0xFF,
+         (caps.version >> 16) & 0xFF,
+         (caps.version >> 8) & 0xFF,
+         (caps.version ) & 0XFF,
          caps.capabilities);
   
   return 0;

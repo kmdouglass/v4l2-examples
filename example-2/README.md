@@ -5,7 +5,7 @@ Print device crop capabilities
 ## Summary
 
 In this example, we use an ioctl named
-[VIDIOC_CROPCAP](https://www.linuxtv.org/downloads/v4l-dvb-apis-new/uapi/v4l/vidioc-cropcap.html?highlight=vidioc_cropcap)
+[`VIDIOC_CROPCAP`](https://www.linuxtv.org/downloads/v4l-dvb-apis-new/uapi/v4l/vidioc-cropcap.html?highlight=vidioc_cropcap)
 to return the device's cropping capabilities. It is largely similar to
 [example-1](https://github.com/kmdouglass/v4l2-examples/tree/master/example-1).
 
