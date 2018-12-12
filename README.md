@@ -2,8 +2,8 @@
 
 Examples that demonstrate the Video for Linux version 2 (V4L2) API.
 
-Each example directory contains a Makefile for compiling its respective example. To compile it,
-simply navigate into that directory and type
+Each example directory contains a Makefile for compiling its respective example. To compile all
+examples, simply navigate into this directory and run the following command:
 
 ```
 make
