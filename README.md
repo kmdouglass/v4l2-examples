@@ -15,6 +15,8 @@ make
    device capabilities
 2. **[example-2](https://github.com/kmdouglass/v4l2-examples/tree/master/example-2)** Print video
    device crop capabilities
+3. **[example-3](https://github.com/kmdouglass/v4l2-examples/tree/master/example-3)** Print and set
+   video device format description
 
 ## Credits
 
