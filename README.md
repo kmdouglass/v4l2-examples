@@ -17,6 +17,8 @@ make
    device crop capabilities
 3. **[example-3](https://github.com/kmdouglass/v4l2-examples/tree/master/example-3)** Print and set
    video device format description
+4. **[example-4](https://github.com/kmdouglass/v4l2-examples/tree/master/example-4)** Allocate and
+   setup memory-mapped buffers for data transfer
 
 ## Credits
 
