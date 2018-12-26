@@ -19,6 +19,7 @@ make
    video device format description
 4. **[example-4](https://github.com/kmdouglass/v4l2-examples/tree/master/example-4)** Allocate and
    setup memory-mapped buffers for data transfer
+5. **[example-5](https://github.com/kmdouglass/v4l2-examples/tree/master/example-5)** Video capture
 
 ## Credits
 
