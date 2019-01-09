@@ -20,6 +20,8 @@ make
 4. **[example-4](https://github.com/kmdouglass/v4l2-examples/tree/master/example-4)** Allocate and
    setup memory-mapped buffers for data transfer
 5. **[example-5](https://github.com/kmdouglass/v4l2-examples/tree/master/example-5)** Video capture
+6. **[example-6](https://github.com/kmdouglass/v4l2-examples/tree/master/example-6)** Exploring
+   captured image data
 
 ## Credits
 
